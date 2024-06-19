@@ -1,5 +1,3 @@
-# S6_Alt2_Optimization
-
 # Optimization Algorithms
 
 This repository contains implementations of various optimization algorithms in Jupyter Notebooks. The algorithms covered include Gradient Descent, Simulated Annealing, Particle Swarm Optimization (PSO), and Genetic Algorithms (GA) for solving the Travelling Salesman Problem (TSP).
