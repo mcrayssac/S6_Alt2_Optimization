@@ -8,7 +8,7 @@ This repository contains implementations of various optimization algorithms in J
 
 1. [Gradient Descent and Simulated Annealing](GradientDescent_SimulatedAnnealing.ipynb)
 2. [Particle Swarm Optimization (PSO)](PSO.ipynb)
-3. [Genetic Algorithms (GA) for TSP](TSP_GAs.ipynb)
+3. [Genetic Algorithms (GA) for TSP](TSP_GAs/TSP_GAs.ipynb)
 
 ## Notebooks
 
@@ -24,7 +24,7 @@ This repository contains implementations of various optimization algorithms in J
 
 ### 3. Genetic Algorithms (GA) for Travelling Salesman Problem (TSP)
 
-- **File:** [TSP_GAs.ipynb](TSP_GAs.ipynb)
+- **File:** [TSP_GAs.ipynb](TSP_GAs/TSP_GAs.ipynb)
 - **Description:** This notebook implements Genetic Algorithms to solve the Travelling Salesman Problem (TSP). It includes functions for creating the initial population, calculating fitness, performing crossover and mutation, and evolving the population over generations.
 
 ## How to Use
